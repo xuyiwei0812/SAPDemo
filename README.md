@@ -1,3 +1,2 @@
 # SAPDemo
-RFCDemo实现了从SAP中查询数据并输出到csv表格中
-DoSomethingTimerTask和PeriodDemo实现了将以上行为定时操作
+"RFCDemo" is a program that connects to SAP, retrieves data via RFC (Remote Function Call), and exports the results to a CSV file. "DoSomethingTimerTask" and "PeriodDemo" extend this functionality by scheduling the data retrieval and export process to run automatically at regular time intervals.
